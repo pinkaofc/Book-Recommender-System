@@ -1,4 +1,4 @@
-# Book Recommender System
+📚 Book Recommender System
 This project is a personalized book recommendation system developed in Python, using the Streamlit framework to create an interactive web application. The system's core functionality is to suggest new reads to users based on their preferences, leveraging the comprehensive "Book-Rating" dataset. The app features a clean and user-friendly interface, enhanced with a unique and aesthetically pleasing pink color scheme and a fun background, making the book discovery process both simple and visually engaging.
 
 ✨ Features
@@ -13,7 +13,6 @@ Clone the repository:
 
 git clone <https://github.com/pinkaofc/Book-Recommender-System>
 cd <Book-Recommender-System>
-
 
 
 Create a virtual environment (recommended):
@@ -63,8 +62,13 @@ scikit-learn (Likely used for the recommendation model)
 
 📈 Data Source
 The recommendation engine is built upon the "Book-Rating" dataset.
-
 You can add more details here about the dataset, like the source or specific features you used.
+
+🤝 Contribution
+Feel free to fork the repository, make changes, and create a pull request. All contributions are welcome!
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 🤝 Contribution
 Feel free to fork the repository, make changes, and create a pull request. All contributions are welcome!
