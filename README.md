@@ -1,6 +1,4 @@
-Here’s a polished and professional version of your README for the **Book Recommender System** project:
 
----
 
 # 📚 Book Recommender System
 
